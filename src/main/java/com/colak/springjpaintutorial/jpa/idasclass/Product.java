@@ -1,4 +1,4 @@
-package com.colak.springjpaintutorial.jpa;
+package com.colak.springjpaintutorial.jpa.idasclass;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

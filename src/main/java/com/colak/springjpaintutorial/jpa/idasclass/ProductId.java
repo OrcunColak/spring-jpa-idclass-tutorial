@@ -1,4 +1,4 @@
-package com.colak.springjpaintutorial.jpa;
+package com.colak.springjpaintutorial.jpa.idasclass;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

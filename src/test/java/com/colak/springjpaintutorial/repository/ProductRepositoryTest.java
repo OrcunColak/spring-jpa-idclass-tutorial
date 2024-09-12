@@ -1,7 +1,7 @@
 package com.colak.springjpaintutorial.repository;
 
-import com.colak.springjpaintutorial.jpa.Product;
-import com.colak.springjpaintutorial.jpa.ProductId;
+import com.colak.springjpaintutorial.jpa.idasclass.Product;
+import com.colak.springjpaintutorial.jpa.idasclass.ProductId;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
