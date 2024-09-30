@@ -3,6 +3,13 @@
 The original idea is from  
 https://medium.com/jpa-java-persistence-api-guide/hibernate-composite-primary-keys-with-embeddable-and-idclass-73ad3fcbc7cc
 
+Spring Data JPA provides 2 ways to create a composite primary key:
+
+1. using @IdClass and @Id annotations
+2. using @Embeddable and @EmbeddedId annotations
+
+This project demonstrates using @IdClass and @Id annotations
+
 # @EmbeddedId vs @IdClass
 
 The choice between @Embeddable/@EmbeddedId and @IdClass depends on the specific situation and developer preferences. The
